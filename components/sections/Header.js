@@ -480,7 +480,7 @@ export const Header = ({ categories, subcategories }) => {
 
   return (
     <>
-      <PromoHeader />
+      {/* <PromoHeader /> */}
       {renderDesktopHeader()}
       {renderMobileHeader()}
       {renderMobileMenu()}
